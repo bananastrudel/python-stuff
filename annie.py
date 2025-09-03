@@ -25,7 +25,7 @@ data = json.loads(moods)
 def affirmation(mood, name):
     affirmations= [
         "you look very nice today " + name,
-        "i hope you have a good day",
+        "you are enough" + name,
         "you are a kind person",
         "you are funny",
         "you are smart"
